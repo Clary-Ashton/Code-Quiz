@@ -78,16 +78,23 @@ h1 {
         border-radius: 10px;
         outline: none;
         padding: 5px 10px;
+
     }
+    .btn:hover {
+        cursor: pointer;
+        background-color: chocolate;
+    }
+    
     .start-button, .next-button {
         display: flex;
         justify-content: center;
         align-items: center;
+        background-color: brown;
 
 
     }
 
-    
+
 
 
  
